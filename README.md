@@ -1,6 +1,6 @@
 # 📈 Real-Time Crypto & Stock Market Dashboard
 
-![Dashboard Demo](https://unsplash.com)
+<img width="1920" height="1080" alt="Screenshot (823)" src="https://github.com/user-attachments/assets/b830c822-f57c-4997-a540-b950101935eb" />
 
 An advanced, interactive web application built entirely with **Python** and **Streamlit** to track live prices of cryptocurrencies and stock markets around the world. It fetches real-time market data dynamically using the Yahoo Finance API and visualizes it with professional candlestick charts.
 
